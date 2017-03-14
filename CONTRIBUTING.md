@@ -11,7 +11,7 @@ members are generally very open-minded and can take a joke.
 However, there are still a few things to keep in mind in order   
 to ensure a pleasant working environment for everybody.
 
-Always respect others and their opinions, keep and open mind,   
+Always respect others and their opinions, keep an open mind,   
 and don't judge people based on their lifestyle or appearance.
 
 ## Git Commit Message Style
